@@ -78,12 +78,12 @@
     <source-file src="src/ios/PDFViewerViewController.m" />
     <header-file src="src/ios/PDFViewerViewController.h" />
 
-    <source-file src="res/ios/share.png" target-dir="Resources" />
-    <source-file src="res/ios/share@2.png" target-dir="Resources" />
-    <source-file src="res/ios/back.png" target-dir="Resources" />
-    <source-file src="res/ios/back@2.png" target-dir="Resources" />
-    <source-file src="assets/fonts/gothic_trade_bold.ttf" target-dir="assets/fonts" />
-    <source-file src="assets/fonts/lucinda_grande_regular.ttf" target-dir="assets/fonts" />
+    <resource-file src="res/ios/share.png" target-dir="Resources" />
+    <resource-file src="res/ios/share@2.png" target-dir="Resources" />
+    <resource-file src="res/ios/back.png" target-dir="Resources" />
+    <resource-file src="res/ios/back@2.png" target-dir="Resources" />
+    <resource-file src="assets/fonts/gothic_trade_bold.ttf" target-dir="assets/fonts" />
+    <resource-file src="assets/fonts/lucinda_grande_regular.ttf" target-dir="assets/fonts" />
     </platform>
 
 </plugin>
